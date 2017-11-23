@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "# https://ma1022.github.io/Natours/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizishu1022/Natours.git"
+  },
+  "author": "Ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizishu1022/Natours/issues"
+  },
+  "homepage": "https://github.com/lizishu1022/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
