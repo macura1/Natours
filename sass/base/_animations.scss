@@ -2,12 +2,12 @@
     0% {
         opacity: 0;
         transform: translateX(-10rem);
-        /* transform: rotate(-50deg); */   /* for testing other annimation */
+        // transform: rotate(-50deg);   // for testing other annimation
     }
 
-    /* 30% {
-        transform: rotate(110deg);
-    } */
+    // 30% {
+    //     transform: rotate(110deg);
+    // }
 
     80% {
         transform: translateX(1rem);
